@@ -1,0 +1,15 @@
+.data:hover{
+    background-color: blue;
+    color:white;
+    
+}
+.data{
+    background-color: rgb(171, 199, 199);
+    color:#fff;
+    font-family: sans-serif;
+   
+}
+p span{
+    font-weight: 400;
+    color: gray;
+}
